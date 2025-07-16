@@ -34,7 +34,7 @@ An interactive, browser-based web app to visualize and analyze the **stock span 
 ## 🔗 Live Preview
 
 Want to see it in action?  
-**[👉 View the Live App](#)** (Add your GitHub Pages or hosted link here)
+**[👉 View the Live App](#)** (https://addythedeveloper.github.io/stock-span-analyzer-visual/)
 
 ---
 
