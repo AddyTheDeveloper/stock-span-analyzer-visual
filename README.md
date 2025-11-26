@@ -42,5 +42,5 @@ Want to see it in action?
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/stock-span-analyzer-visual.git
+   git clone https://github.com/AddyTheDeveloper/stock-span-analyzer-visual.git
    cd stock-span-analyzer-visual
